@@ -1,3 +1,3 @@
 # LeetCode
 
-Solution of leetcode practice
+Solutions of LeetCode practice.
